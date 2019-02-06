@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "378851335091",
+    "firebase_url": "https://testeplayfab.firebaseio.com",
+    "project_id": "testeplayfab",
+    "storage_bucket": "testeplayfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378851335091:android:b57e6f1b9ab44ed6",
+        "android_client_info": {
+          "package_name": "com.syrax.testeplatfab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378851335091-el7oiak1mdpr8ie1fca6m2cr62mno547.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZsyh6gU_nbXxnExXYcJpav77zKltG5U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
